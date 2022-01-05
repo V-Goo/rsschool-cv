@@ -9,7 +9,23 @@ ___
 
 ___
 
-## Goal and priorities
+## Brief information about me
+
+### goal and priorities
+
+I always strive to gain new knowledge, experience, to explore new areas for myself.
+
+In my current specialty, I approached the limit of competence and considered it best to change the direction of my activity.
+
+Frontend attracts with the opportunity to get visual results.
+
+### my strengths
+
+* responsibility 
+* accuracy
+* communication 
+* attentive attitude to employees
+* learning
 
 ___
 
@@ -27,6 +43,11 @@ ___
 ___
 
 ## Code examples
+```js
+function multiply(a, b){
+  return a * b
+}
+```
 
 ___
 
